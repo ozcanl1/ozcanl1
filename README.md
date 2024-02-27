@@ -1,4 +1,4 @@
-[![MasterHead](https://devnot.com/wp-content/uploads/2020/05/1_uhSX5djhrWiguXoWsW_lEw.png)
+![MasterHead](https://devnot.com/wp-content/uploads/2020/05/1_uhSX5djhrWiguXoWsW_lEw.png)
 <h1 align="center">Hi 👋, I'm Halil İbrahim Özcanlı</h1>
 <h3 align="center">A passionate .Net Junior Developer, I live in Istanbul, Turkey</h3>
 
